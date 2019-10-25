@@ -1,4 +1,4 @@
-# Renux
+# Lenux
 
   
 왜 리눅스?
